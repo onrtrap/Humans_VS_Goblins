@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.ArrayList;
 public class humansvsgoblins {
     public static void main(String args[]) throws BadLocationException {
+        TopLevelWindow window = new TopLevelWindow();
 TopLevelWindow.createWindow();
 
     }
