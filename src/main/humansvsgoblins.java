@@ -4,9 +4,9 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
 public class humansvsgoblins {
-    public static void main(String args[]) throws BadLocationException {
+    public static void main(String args[]) throws BadLocationException, IOException {
         TopLevelWindow window = new TopLevelWindow();
-TopLevelWindow.createWindow();
+        TopLevelWindow.navigation();
 
     }
 }
